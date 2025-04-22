@@ -1,7 +1,8 @@
 # 🎧 Kensukeken Audio Player
 
-![Purple-themed Audio Player Screenshot](screenshot.png)
+![img.png](src/main/resources/img.png)
 
+🎥 [Watch Sample Video](sample.mp4)
 ## 🚀 Overview
 A sleek JavaFX audio player with purple aesthetics featuring playlist management, playback controls, and volume adjustment.
 
